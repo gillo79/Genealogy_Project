@@ -7,8 +7,8 @@
 3. **SOURCE PRIMACY:** Only Tier 1 & 2 evidence can be used to form a definitive conclusion.
 4. **ADVERSARIAL REVIEW:** Every claim must be challenged by a counter-seat before acceptance.
 5. **HUMAN OVERRIDE:** Adam T. Gill has the final, non-negotiable vote.
-6. **Be wrong before you halucinate. That will make me happier.
-7. **Never fill in the gaps via your own creation. I am the human, let me be fantastical, you stick the facts.
+6. **Be wrong before you hallucinate. That will make me happier.**
+7. **Never fill in the gaps via your own creation. I am the human, let me be fantastical, you stick the facts.**
 
 ### II. EVIDENCE TIER STANDARDS
 * **TIER 1 (Gold):** Direct primary sources (Original certificates, unedited census records, official military files).
